@@ -1,4 +1,4 @@
-# Chess Move Project
+# Chess Moves Reader
 
 ## Introduction
 This project allows you to practice essential programming constructs such as functions, file processing, and arrays in C++. The goal is to develop high-quality code with meaningful variable names, function names, and comments, while also ensuring an artistic presentation. The project utilizes a skeleton code that you will complete by filling in the necessary components.
